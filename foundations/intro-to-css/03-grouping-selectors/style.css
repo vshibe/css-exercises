@@ -1,0 +1,13 @@
+.bbutt, .ybutt {
+	font-size: 28px;
+	font-family: Helvectica, "Times New Roman", sans-serif;
+}
+
+.bbutt {
+	background-color: black;
+	color: white;
+}
+
+.ybutt {
+	background-color: yellow;
+}
